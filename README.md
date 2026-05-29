@@ -12,7 +12,10 @@ This project was a personal exercise to learn asynchronous JavaScript, DOM manip
 
 4.**Minimal Permissions:** Built using Manifest V3, with no unnecessary permissions or restricted content access.
 
-## Installation (Developer Mode)
+## Installation
+### Chrome Web Store
+Navigate to the [Chrome Web Store](https://chromewebstore.google.com/detail/blocky-splash-text/kcfokjhamjofieedkiajkabhlkgklmhb) and click **Add to Chrome** to install the extension directly!
+### Developer Mode
 Since this project is open-source, you can install and test it locally without using the Chrome Web Store:
 
 1.Download or clone the repository.
